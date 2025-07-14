@@ -1,22 +1,18 @@
 # YouTube Downloader
 
-A web application for downloading YouTube videos.
+Une application web pour télécharger des vidéos YouTube.
 
-## Updating yt-dlp
+## Prérequis
 
-The application uses yt-dlp for downloading YouTube content. To ensure you have the latest version of yt-dlp, use the `force-yt-dlp-update.cmd` script:
+- Installer Python 3.8 ou supérieur
+- Cloner le dépôt : https://github.com/Mending-Electronics/video-downloader-lite.git
 
-1. Open a terminal in the project directory
-2. Run: `force-yt-dlp-update.cmd`
+## Installation et utilisation
 
-This script will:
-- Activate the virtual environment
-- Display the current yt-dlp version
-- Uninstall the current version
-- Install the latest version
-- Display the new version number
+1. Lancez `setup.cmd`
+2. Lancez `force-update-yt-dlp.cmd`
+3. Lancez `run.cmd` pour démarrer l'application
 
-## Requirements
+## Notes
 
-- Python 3.8 or higher
-- Virtual environment (automatically created by the script)
+Les fichiers téléchargés seront stockés dans le dossier `output`
