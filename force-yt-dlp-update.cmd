@@ -1,12 +1,21 @@
 @echo off
+
 :: Activate virtual environment
 call .venv\Scripts\activate
 
-:: Uninstall existing yt-dlp
+echo Checking current yt-dlp version...
+python -m yt_dlp --version
+
+echo Uninstalling current yt-dlp...
 pip uninstall -y yt-dlp
 
-:: Install latest yt-dlp
-pip install yt-dlp
+echo Installing latest yt-dlp...
+pip install --upgrade yt-dlp
+
+echo Installed yt-dlp version:
+python -m yt_dlp --version
+
+echo Update complete!
 
 echo yt-dlp has been updated to the latest version
 pause
