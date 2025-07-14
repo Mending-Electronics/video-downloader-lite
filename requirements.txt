@@ -1,0 +1,6 @@
+Flask==3.0.0
+yt-dlp==2025.7.12.233122.dev0
+python-dotenv==1.0.0
+moviepy==1.0.3
+auto-py-to-exe
+loguru==0.7.0
