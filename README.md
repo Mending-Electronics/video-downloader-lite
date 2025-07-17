@@ -64,6 +64,25 @@ Une application web légère et performante pour télécharger des vidéos depui
 - `/templates` : Fichiers de template HTML
 - `/static` : Fichiers statiques (CSS, JS, images, composants)
 
+
+
+
+
+
+
+
+## Screenshots
+
+![Screenshot0001](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/Screenshot0001.png?raw=true "Screenshot0001")
+
+![Screenshot0002](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/Screenshot0002.png?raw=true "Screenshot0002")
+
+![Screenshot0003](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/Screenshot0003.png?raw=true "Screenshot0003")
+
+![Screenshot0004](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/Screenshot0004.png?raw=true "Screenshot0004")
+
+
+
 ## 🎯 Intégration Vue.js avec Flask
 
 ### Configuration des délimiteurs
