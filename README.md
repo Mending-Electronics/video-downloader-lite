@@ -73,13 +73,13 @@ Une application web légère et performante pour télécharger des vidéos depui
 
 ## Screenshots
 
-![Screenshot0001](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/Screenshot0001.png?raw=true "Screenshot0001")
+![Screenshot0001](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/screenshot0001.png?raw=true "Screenshot0001")
 
-![Screenshot0002](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/Screenshot0002.png?raw=true "Screenshot0002")
+![Screenshot0002](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/screenshot0002.png?raw=true "Screenshot0002")
 
-![Screenshot0003](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/Screenshot0003.png?raw=true "Screenshot0003")
+![Screenshot0003](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/screenshot0003.png?raw=true "Screenshot0003")
 
-![Screenshot0004](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/Screenshot0004.png?raw=true "Screenshot0004")
+![Screenshot0004](https://github.com/Mending-Electronics/video-downloader-lite/blob/main/.screenshots/screenshot0004.png?raw=true "Screenshot0004")
 
 
 
