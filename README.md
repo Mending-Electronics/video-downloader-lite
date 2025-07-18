@@ -396,6 +396,7 @@ const app = Vue.createApp({
   delimiters: ['[[', ']]']
 });
 
+// Montage de l'application sur l'element HTML ayant pour ID "app"
 app.mount('#app');
 ```
 
@@ -497,7 +498,7 @@ const app = Vue.createApp({
 </style>
 
 
-<!-- Notre application Vue / Il faut spécifier le type="text/javascript" pour que le navigateur comprenne que c'est du JavaScript ES5 -->
+<!-- Import de notre application Vue / Il faut spécifier le type="text/javascript" pour que le navigateur comprenne que c'est du JavaScript ES5 -->
 <script src="{{ url_for('static', filename='components/app.vue') }}" type="text/javascript"></script>
 ```
 
